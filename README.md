@@ -11,6 +11,9 @@ Built for the **HCLTech Future Ready AI Engineer Hackathon**. Transforms a unive
 - **Vector Store & Embeddings:** ChromaDB + Local `sentence-transformers`
 - **Analytics & Testing:** Pandas & Pytest `tests/`
 
+
+
+
 ## Quickstart
 ##Quick start to start this project 
 
