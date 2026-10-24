@@ -3,7 +3,7 @@
 Built for the **HCLTech Future Ready AI Engineer Hackathon**. Transforms a university library into an intelligent knowledge hub for discovery, research, circulation, and analytics.
 
 ## Tech Stack
-
+()
 - **Frontend:** Streamlit (`frontend/`)
 - **Backend:** FastAPI (`backend/api/`, `backend/services/`, `backend/schemas/`)
 - **Database:** SQLite + SQLAlchemy (`backend/models/`, `backend/db/`)
